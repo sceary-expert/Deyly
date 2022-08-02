@@ -1,8 +1,7 @@
 import React from 'react';
 
 const Loader = () => (
-  <div className="text-center ">
-    
+  <div className="text-center">
     <button
       type="button"
       className="inline-flex items-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-rose-600"
