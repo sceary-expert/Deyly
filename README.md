@@ -1,4 +1,4 @@
-# GraphCMS Headless Blog
+# Deyly Headless Blog
 ### [Live Site](https://deyly.vercel.app/)
 
 ![Deyly Headless Blog](https://user-images.githubusercontent.com/84634405/182530487-86f6374a-40d2-469e-9902-a449878648bc.png)
