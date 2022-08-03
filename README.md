@@ -1,4 +1,4 @@
-# Deyly Headless Blog
+# Deyly Blog
 ### [Live Site](https://deyly.vercel.app/)
 ## On mobile devices 
 ![Deyly](https://user-images.githubusercontent.com/84634405/182534176-79a0e5bd-66a9-4830-a8ea-93f11d36606b.png)
